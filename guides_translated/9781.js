@@ -669,9 +669,9 @@ module.exports = (dispatch, handlers, guide, lang) => {
 		"s-781-78103-2105-0": [{ type: "text", sub_type: "message", message: "Near-Range explosion | projectile | Heilong after tracking" }],
 		"s-781-78103-2106-0": [{ type: "text", sub_type: "message", message: "Remote explosion after tracking / Heilong" }],
 		"s-781-78103-2107-0": [{ type: "text", sub_type: "message", message: "After tracking ranged blast | projectile | Black Dragon" }],
-		"s-781-90000-1301-0": [{ type: "text", sub_type: "message", message: "undefined" }],
-		"s-781-90000-1302-0": [{ type: "text", sub_type: "message", message: "undefined" }],
-		"s-781-90001-1301-0": [{ type: "text", sub_type: "message", message: "undefined" }],
-		"s-781-90002-1301-0": [{ type: "text", sub_type: "message", message: "undefined" }]
+		"s-781-90000-1301-0": [{ type: "text", sub_type: "message", message: "Death penalty debuff anomaly granted 1" }],
+		"s-781-90000-1302-0": [{ type: "text", sub_type: "message", message: "Death penalty given Laquan buff anomaly" }],
+		"s-781-90001-1301-0": [{ type: "text", sub_type: "message", message: "Death penalty phase 2" }],
+		"s-781-90002-1301-0": [{ type: "text", sub_type: "message", message: "Death penalty phase 1 / squid dynamic spawn" }]
 	};
 };
