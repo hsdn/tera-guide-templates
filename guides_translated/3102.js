@@ -73,6 +73,9 @@ module.exports = (dispatch, handlers, guide, lang) => {
 		"s-3102-1003-1102-0": [{ type: "text", sub_type: "message", message: "Kaligar / core action 3 / rear attack / transparent NPC / B" }],
 		"s-3102-1004-1101-0": [{ type: "text", sub_type: "message", message: "Transparent NPC / walking cycle" }],
 		"s-3102-1004-1102-0": [{ type: "text", sub_type: "message", message: "Transparent NPC / flash cycle / projectile" }],
-		"s-3102-1004-1103-0": [{ type: "text", sub_type: "message", message: "Transparent NPC / flash cycle / projectile (for clearing effects at the end)" }]
+		"s-3102-1004-1103-0": [{ type: "text", sub_type: "message", message: "Transparent NPC / flash cycle / projectile (for clearing effects at the end)" }],
+		"s-3102-90000-1301-0": [{ type: "text", sub_type: "message", message: "undefined" }],
+		"s-3102-90000-1302-0": [{ type: "text", sub_type: "message", message: "undefined" }],
+		"s-3102-90001-1301-0": [{ type: "text", sub_type: "message", message: "undefined" }]
 	};
 };

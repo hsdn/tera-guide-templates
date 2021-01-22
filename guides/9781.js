@@ -668,6 +668,10 @@ module.exports = (dispatch, handlers, guide, lang) => {
 		"s-781-78103-2104-0": [{ type: "text", sub_type: "message", message: "추적 후 근거리폭발 | 흑룡" }],
 		"s-781-78103-2105-0": [{ type: "text", sub_type: "message", message: "추적 후 근거리 폭발 | 발사체 | 흑룡" }],
 		"s-781-78103-2106-0": [{ type: "text", sub_type: "message", message: "추적 후 원거리폭발 | 흑룡" }],
-		"s-781-78103-2107-0": [{ type: "text", sub_type: "message", message: "추적 후 원거리 폭발 | 발사체 | 흑룡" }]
+		"s-781-78103-2107-0": [{ type: "text", sub_type: "message", message: "추적 후 원거리 폭발 | 발사체 | 흑룡" }],
+		"s-781-90000-1301-0": [{ type: "text", sub_type: "message", message: "사망 패널티 디버프 이상상태 부여1" }],
+		"s-781-90000-1302-0": [{ type: "text", sub_type: "message", message: "사망 패널티 라칸 버프 이상상태 부여" }],
+		"s-781-90001-1301-0": [{ type: "text", sub_type: "message", message: "사망 패널티 2단계" }],
+		"s-781-90002-1301-0": [{ type: "text", sub_type: "message", message: "사망 패널티 1단계 | 오징어 다이나믹 스폰" }]
 	};
 };

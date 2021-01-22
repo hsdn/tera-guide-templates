@@ -73,6 +73,9 @@ module.exports = (dispatch, handlers, guide, lang) => {
 		"s-3102-1003-1102-0": [{ type: "text", sub_type: "message", message: "칼리가르 | 핵심액션3 | 후방타격 | 투명NPC | B" }],
 		"s-3102-1004-1101-0": [{ type: "text", sub_type: "message", message: "투명NPC | 업화 걸어 주기" }],
 		"s-3102-1004-1102-0": [{ type: "text", sub_type: "message", message: "투명NPC | 업화 걸어 주기 | 발사체" }],
-		"s-3102-1004-1103-0": [{ type: "text", sub_type: "message", message: "투명NPC | 업화 걸어 주기 | 발사체(마지막에 이펙트 지우기용)" }]
+		"s-3102-1004-1103-0": [{ type: "text", sub_type: "message", message: "투명NPC | 업화 걸어 주기 | 발사체(마지막에 이펙트 지우기용)" }],
+		"s-3102-90000-1301-0": [{ type: "text", sub_type: "message", message: "사망 패널티 디버프 이상상태 부여" }],
+		"s-3102-90000-1302-0": [{ type: "text", sub_type: "message", message: "사망 패널티 칼리가르 버프 이상상태 부여" }],
+		"s-3102-90001-1301-0": [{ type: "text", sub_type: "message", message: "사망 패널티 버프 이상상태 부여" }]
 	};
 };
